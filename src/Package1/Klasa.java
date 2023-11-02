@@ -47,6 +47,6 @@ public class Klasa {
         System.out.println(zmiennaDouble);
         System.out.println(zmiennaString);
     }
-
+//Comment
 
 }
