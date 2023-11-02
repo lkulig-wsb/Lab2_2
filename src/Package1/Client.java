@@ -2,7 +2,7 @@ package Package1;
 public class Client {
 
     //Pola(cechy) klasy Client. Modyfikator private ogranicza dostęp do danego pola tylko do jego własnej klasy.
-    // do element
+
     private int clientID;
     private String clientName;
     private String clientAddress;
